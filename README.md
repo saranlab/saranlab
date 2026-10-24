@@ -22,7 +22,7 @@
 
 ```python
 class Saran:
-    studying    = "B.S. Statistics @ Thammasat University (GPA 3.85)"
+    studying    = "B.S. Statistics @ Thammasat University"
     building    = ["LoanLens", "LoyalScale", "OptiSim"]
     cares_about = ["explainable models", "uncertainty quantification", "decisions, not just metrics"]
     organizing  = "QuantTU, a quant-finance + AI student group"
